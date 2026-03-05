@@ -4,6 +4,25 @@
 
 Repositorio con la implementación de los ejercicios del Capítulo 2 de flex con instrucciones para compilarlo pantallazos y pruebas todas en la maquina virtual con mi nombre 
 
+REQUISITOS PARA LA EJECUCION 
+
+Paquetes:
+
+flex
+sudo apt install flex gcc make git -y
+ <img width="1280" height="800" alt="SSSSSSSSSSSSSS" src="https://github.com/user-attachments/assets/76b56210-6c89-416f-a0eb-501bdf6ab051" />
+
+Instalacion:
+
+sudo apt update
+<img width="1280" height="800" alt="ssss" src="https://github.com/user-attachments/assets/99a0301a-5458-4166-882b-c68e08b80484" />
+
+sudo apt install -y flex gcc 
+Verificacion:
+
+flex --version
+gcc --version
+
 ## Ejercicio 1
 
 El ejemplo original compara caracteres uno a uno.
